@@ -1,0 +1,8 @@
+val x = 34; 
+val y = 17;
+val m = 45;
+val q = y+1;
+val w = x;
+val s = if x > y then x else y
+val r = false;
+val p = [3,2,2,2];
